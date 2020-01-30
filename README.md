@@ -1,5 +1,8 @@
 #Android Architecture \#1 Data binding
+
+
 ![data binding](https://user-images.githubusercontent.com/60108801/73315298-0faeaf00-4273-11ea-8b36-96f540883737.png)
+
 
 ##1.findViewById() 제거
 
