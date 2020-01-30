@@ -33,6 +33,8 @@ layout 파일 최외각에  \<layout\>\</layout\> 태그를 추가하고, namesp
 ```
 
 빌드하면 아래 그림과 같이 databinding 패키지 및 관련 class 생성됨.
+
+
 ![enter image description here](https://user-images.githubusercontent.com/60108801/73413477-288c9280-434f-11ea-8a16-c70b68f4aa31.png)
 
 ### Step 3
