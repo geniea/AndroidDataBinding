@@ -71,7 +71,7 @@ data class Person(val name: String = "", var age: Int)
 
 ### Step 5
 
-layout 파일의 <layout> 태그 다음에 <data> 및 <variable> 태그 삽입
+layout 파일의 \<layout\> 태그 다음에 \<data\> 및 \<variable\> 태그 삽입
 
 ```xml
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
