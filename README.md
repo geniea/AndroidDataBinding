@@ -1,10 +1,10 @@
-# Android Architecture \[ Data binding ]
+# /[Kotlin] Android Architecture :: Data binding
 
 
 ![data binding](https://user-images.githubusercontent.com/60108801/73315298-0faeaf00-4273-11ea-8b36-96f540883737.png)
 
 
-## 1.findViewById() 사용 안하기
+## 1.findViewById() 사용 배제
  findViewById() 함수를 사용하면 runtime에 view를 검색하게되는데, layout에 view 가 많을 경우 바람직하지 않음.
 
 
