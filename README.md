@@ -4,7 +4,7 @@
 ![data binding](https://user-images.githubusercontent.com/60108801/73315298-0faeaf00-4273-11ea-8b36-96f540883737.png)
 
 
-## 1.findViewById() 사용 배제
+## 1.Data binding : View
  findViewById() 함수를 사용하면 runtime에 view를 검색하게되는데, layout에 view 가 많을 경우 바람직하지 않음.
 
 
@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
 
 findViewById\<View\>(R.id.id_view) 를 binding.idView 로 대체하여 사용함.
 
-## 2.데이터 Display
+## 2.Data binding : Data
 
 data binding은  view에 data class 내용을 직접 표시할 수 있음.
 
